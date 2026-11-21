@@ -26,6 +26,7 @@
 `print("Hello")`
 
 ## 6. Fenced Code Block
+
 ```python
 def greet(name):
     return f"Hello, {name}!"
@@ -43,4 +44,5 @@ def greet(name):
 > An important note or reference goes here.
 
 ## 10. Horizontal Divider
+
 ---
